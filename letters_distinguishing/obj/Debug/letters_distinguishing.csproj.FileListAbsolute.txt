@@ -1,1 +1,9 @@
 d:\дарья\документы\visual studio 2015\Projects\letters_distinguishing\letters_distinguishing\bin\Debug\letters_distinguishing.exe.config
+D:\Дарья\Документы\Visual Studio 2013\Projects\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\bin\Debug\letters_distinguishing.exe.config
+D:\Дарья\Документы\Visual Studio 2013\Projects\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\bin\Debug\letters_distinguishing.exe
+D:\Дарья\Документы\Visual Studio 2013\Projects\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\bin\Debug\letters_distinguishing.pdb
+D:\Дарья\Документы\Visual Studio 2013\Projects\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.csprojResolveAssemblyReference.cache
+D:\Дарья\Документы\Visual Studio 2013\Projects\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.Properties.Resources.resources
+D:\Дарья\Документы\Visual Studio 2013\Projects\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.csproj.GenerateResource.Cache
+D:\Дарья\Документы\Visual Studio 2013\Projects\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.exe
+D:\Дарья\Документы\Visual Studio 2013\Projects\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.pdb

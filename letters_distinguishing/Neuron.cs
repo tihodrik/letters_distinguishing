@@ -9,7 +9,7 @@ namespace letters_distinguishing
 {
     class Neuron
     {
-        public List<int> x;
+        private List<int> x;
         public List<int> X
         {
             get
@@ -40,7 +40,7 @@ namespace letters_distinguishing
         private List<double> w;
 
         private double s;
-        private double S
+        public double S
         {
             get
             {

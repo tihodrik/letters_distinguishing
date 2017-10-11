@@ -7,3 +7,11 @@ D:\Дарья\Документы\Visual Studio 2013\Projects\Анализ инт
 D:\Дарья\Документы\Visual Studio 2013\Projects\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.csproj.GenerateResource.Cache
 D:\Дарья\Документы\Visual Studio 2013\Projects\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.exe
 D:\Дарья\Документы\Visual Studio 2013\Projects\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.pdb
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Studies\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\bin\Debug\letters_distinguishing.exe.config
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Studies\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.exe
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Studies\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.pdb
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Studies\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\bin\Debug\letters_distinguishing.exe
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Studies\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\bin\Debug\letters_distinguishing.pdb
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Studies\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.csprojResolveAssemblyReference.cache
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Studies\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.Properties.Resources.resources
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Studies\Анализ интеллектуальных систем\letters_distinguishing\letters_distinguishing\obj\Debug\letters_distinguishing.csproj.GenerateResource.Cache

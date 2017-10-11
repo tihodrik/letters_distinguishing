@@ -170,11 +170,11 @@ namespace letters_distinguishing
         private int Educate()
         {
             bool wrong_answ;
+            bool tmp;
             int count = 0;
 
             do
             {
-                count++;
                 wrong_answ = false;
                 for (int l = 0; l < 33; l++)
                 {
@@ -182,7 +182,10 @@ namespace letters_distinguishing
                     {
                         perseptron[i].X = _X.ElementAt(l).Key;
                         perseptron[i].D = _D[l][i];
-                        wrong_answ |= perseptron[i].CorrectW();
+                        tmp = perseptron[i].CorrectW();
+                        if (tmp)
+                            count ++;
+                        wrong_answ |= tmp;
                     }
                 }
             } while (wrong_answ);
